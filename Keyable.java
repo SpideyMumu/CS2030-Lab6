@@ -1,0 +1,4 @@
+interface Keyable {
+    String getKey();
+}
+
